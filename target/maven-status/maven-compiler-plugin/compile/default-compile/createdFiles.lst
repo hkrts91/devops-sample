@@ -1,0 +1,7 @@
+com\devopsson\devopsson\bussiness\concretes\UserManager.class
+com\devopsson\devopsson\utilities\UserRequest.class
+com\devopsson\devopsson\api\UserController.class
+com\devopsson\devopsson\entities\User.class
+com\devopsson\devopsson\repository\IUserRepository.class
+com\devopsson\devopsson\bussiness\abstractt\IUserService.class
+com\devopsson\devopsson\DevopssonApplication.class
